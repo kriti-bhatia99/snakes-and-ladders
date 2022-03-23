@@ -14,7 +14,7 @@ Each Square object consists of:
 
 - an integer position (0 to 49),
 - references to any Player objects that are currently at that square and
-- aninteger delta.
+- an integer delta.
 
 The integer delta _ indicates how far up or down the player should move if they land here
 (a positive number indicates a ladder — see for example, position 18, and a negative number
