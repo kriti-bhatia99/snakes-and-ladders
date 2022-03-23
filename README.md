@@ -1,4 +1,4 @@
-In this AE you will create the classes required for a Snakes and Ladders game.
+This is CLI Snakes & Ladders game developed in Java.
 
 **Stage 1: The Player and Square classes**
 
